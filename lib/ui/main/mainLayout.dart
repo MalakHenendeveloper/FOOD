@@ -31,9 +31,9 @@ class Mainlayout extends StatelessWidget {
                       label: 'Shope'),
                   BottomNavigationBarItem(
                       icon: Icon(
-                        Icons.payment,
+                        Icons.map,
                       ),
-                      label: 'payment'),
+                      label: 'Maps'),
                   BottomNavigationBarItem(
                       icon: Icon(
                         Icons.person,
