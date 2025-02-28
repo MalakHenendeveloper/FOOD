@@ -1,16 +1,41 @@
-# food
+🚀 Food Delivery App
 
-A new Flutter project.
+Food Delivery App is a Flutter application designed to provide a seamless food ordering and delivery experience. The app enables users to browse restaurants, place orders, make payments, and track deliveries in real-time using Google Maps. It follows Clean Architecture for a well-structured and scalable codebase and utilizes Bloc/Cubit for state management and GetIt for dependency injection.
 
-## Getting Started
+🛠️ Technologies and Tools Used
 
-This project is a starting point for a Flutter application.
+🏗 Flutter: The core framework for building the application.
+📝 Dart: The programming language used.
+🌐 REST API: To fetch restaurant data, food items, and order details from an external source.
+💳 Payment Integration: Secure online payments for food orders.
+🗺 Google Maps API: To track order deliveries in real-time.
+🔄 Bloc/Cubit: For efficient state management.
+📦 GetIt: For dependency injection and better code organization.
+🔑 Firebase Authentication: For user authentication using email and password.
+📱 ScreenUtil: To ensure responsive UI across different screen sizes.
+🏛 Clean Architecture: For a well-defined and maintainable project structure.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Login using Firebase Authentication
+✅ Fetch restaurant and food data using REST API
+✅ State management with Bloc/Cubit
+✅ Real-time order tracking with Google Maps
+✅ Secure online payments integration
+✅ Full screen adaptability using ScreenUtil
+✅ Well-structured code with Clean Architecture
+✅ Dependency injection using GetIt for better scalability
+✅ Smooth and intuitive UI for a great user experience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📋 Requirements
+
+🚀 Flutter 3.16.0 or later
+💡 Dart 3.0 or later
+🔑 Firebase Authentication configured in the project
+🔗 API integration for fetching restaurant and order data
+🗺 Google Maps API configured for order tracking
+💳 Payment gateway setup for processing transactions
+
+👨‍💻 Author
+
+Malak Henen
